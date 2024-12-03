@@ -21,3 +21,9 @@ Below you can see describing about commits and versions.
     Already done most important things in Design Document 
     like a main and side quests, main locations and NPC. 
     All this changes you can see in Design Document DreamTale.docx
+
+004-install-a-few-plugins
+
+    I install plugin "ShowText", it's make a message in middle of screen.
+    Also I install plugin for quest log. I think it's make my game a little
+    more describing. And I deleted all standart plugins.
