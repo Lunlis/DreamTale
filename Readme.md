@@ -27,3 +27,8 @@ Below you can see describing about commits and versions.
     I install plugin "ShowText", it's make a message in middle of screen.
     Also I install plugin for quest log. I think it's make my game a little
     more describing. And I deleted all standart plugins.
+
+005-trying-work-at-work
+
+    It's bad idea:/ I can't concentration on develop. 
+    But I added a few subscribes to quests.
