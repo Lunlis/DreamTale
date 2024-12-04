@@ -37,3 +37,7 @@ Below you can see describing about commits and versions.
 
     I created a new quest system in global events, 
     for make NPC little more understandable.
+
+007-working-on-quests
+
+    Already done 101, 102, 103, 104 quests in alpha version.
