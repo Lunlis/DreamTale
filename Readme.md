@@ -32,3 +32,8 @@ Below you can see describing about commits and versions.
 
     It's bad idea:/ I can't concentration on develop. 
     But I added a few subscribes to quests.
+
+006-working-on-new-quest-system
+
+    I created a new quest system in global events, 
+    for make NPC little more understandable.
