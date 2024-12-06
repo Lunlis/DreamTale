@@ -41,3 +41,7 @@ Below you can see describing about commits and versions.
 007-working-on-quests
 
     Already done 101, 102, 103, 104 quests in alpha version.
+
+008-main-quest-done
+
+    Already done finally 105 main quest in alpha version.
