@@ -45,3 +45,7 @@ Below you can see describing about commits and versions.
 008-main-quest-done
 
     Already done finally 105 main quest in alpha version.
+
+009-thinking-about-mechanics
+
+    Co-working about quests and machanics
