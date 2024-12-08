@@ -49,3 +49,8 @@ Below you can see describing about commits and versions.
 009-thinking-about-mechanics
 
     Co-working about quests and machanics
+
+010-path-for-NPC-and-ShowTime-plugin
+
+    Today I created base algorithm for path for NPC,
+    recreated time system and maked come NPC more life.
