@@ -54,3 +54,11 @@ Below you can see describing about commits and versions.
 
     Today I created base algorithm for path for NPC,
     recreated time system and maked come NPC more life.
+
+011-few-days-work
+
+    I added a few plugins in project like OrangeOverlay and addon for 
+    animated overlay, YEP_RegionRestrictions and PathFinding for NPC.
+    Plugins really make developing easier I feel it on myself.
+    I general worked on planning locations only for feel better
+    what I want to do next step. And I think it's right step.
