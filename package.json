@@ -4,8 +4,8 @@
     "chromium-args": "--force-color-profile=srgb",
     "window": {
         "title": "DreamTale",
-        "width": 1280,
-        "height": 720,
+        "width": 1104,
+        "height": 624,
         "position": "center",
         "icon": "icon/icon.png"
     }
