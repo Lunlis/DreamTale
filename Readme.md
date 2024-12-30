@@ -62,3 +62,8 @@ Below you can see describing about commits and versions.
     Plugins really make developing easier I feel it on myself.
     I general worked on planning locations only for feel better
     what I want to do next step. And I think it's right step.
+
+012-working-on-location
+
+    At this time I added a new location "Farm of Rumo".
+    On the Farm of Rumo player should to do some quest.
